@@ -1,4 +1,4 @@
-# 2025-Arxiv-Paper-List-Gaussian-Splatting
+# 2025-Arxiv-Paper-List-Gaussian-Splattingtest
 This is crawled to find out about the 2025 **Gaussian Splatting** papers in arxiv. There may be errors, so please leave a Pull Request or Issue and I will actively apply it.
 
 Updated on APRIL 14, 2025
